@@ -1,0 +1,2 @@
+# Implementation of Multi-Layer Perceptron (MLP) for Binary Classification
+This project involves designing and implementing the prediction phase of a Multi-Layer Perceptron (MLP) for binary classification (0 or 1) in Verilog. The focus is on using the provided weights to process input data through the input, hidden, and output layers, with the tanh activation function implemented via the CORDIC algorithm. The project aims to produce accurate class predictions without the need for implementing the learning phase.
