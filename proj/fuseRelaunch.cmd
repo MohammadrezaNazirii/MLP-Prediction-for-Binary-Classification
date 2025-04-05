@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/Mohammadreza/Desktop/FPGAAAAAAAAA/proj/mlpTest_isim_beh.exe" -prj "C:/Users/Mohammadreza/Desktop/FPGAAAAAAAAA/proj/mlpTest_beh.prj" "work.mlpTest" "work.glbl" 

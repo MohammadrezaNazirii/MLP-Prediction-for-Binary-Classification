@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj proj -o C:/Users/Mohammadreza/Desktop/temp/proj/Main.tfi -lib work C:/Users/Mohammadreza/Desktop/temp/proj//Main.v -module Main -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

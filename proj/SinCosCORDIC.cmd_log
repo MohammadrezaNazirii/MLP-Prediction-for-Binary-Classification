@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj proj -o C:/Users/Mohammadreza/Desktop/temp/proj/SinCosCORDIC.tfi -lib work C:/Users/Mohammadreza/Desktop/temp/proj//SinCosCORDIC.v -module SinCosCORDIC -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
